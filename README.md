@@ -30,11 +30,3 @@ Data Files:
 prompts_df.csv: Prompts for rewritten texts.
 train_clean.parquet: Training data samples.
 validation826.csv: Validation set.
-
-@misc{llm-prompt-recovery,
-    author = {Will Lifferth and Paul Mooney and Sohier Dane and Ashley Chow},
-    title = {LLM Prompt Recovery},
-    year = {2024},
-    howpublished = {\url{https://www.kaggle.com/competitions/llm-prompt-recovery}},
-    note = {Kaggle}
-}
